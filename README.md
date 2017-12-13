@@ -6,6 +6,14 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/DylanVann/react-native-fast-image.svg?style=flat-square)](https://circleci.com/gh/DylanVann/react-native-fast-image)
 [![license](https://img.shields.io/github/license/DylanVann/react-native-fast-image.svg?style=flat-square)](https://github.com/DylanVann/react-native-fast-image/blob/master/LICENSE)
 
+### Disclaimer
+This is a fork from `react-native-fast-image` with a fix for old react-native-version.
+Tested with versions:
+```bash
+react-native-cli: 2.0.1
+react-native: 0.44.3
+```
+
 <p align="center" >
   <img src="http://i.imgur.com/OkYqmCP.gif" title="Grid Demo" float=left>
   <img src="http://i.imgur.com/q1rNLxw.gif" title="Priority Demo" float=left>
